@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #c5d3fc;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller2">
+    <children>
+      <TextField fx:id="wr7" alignment="CENTER" layoutX="494.0" layoutY="392.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="392.0" />
+      <TextField fx:id="wr6" alignment="CENTER" layoutX="494.0" layoutY="356.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="356.0" />
+      <TextField fx:id="wr5" alignment="CENTER" layoutX="494.0" layoutY="322.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="322.0" />
+      <TextField fx:id="wr4" alignment="CENTER" layoutX="496.0" layoutY="286.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.leftAnchor="494.0" AnchorPane.topAnchor="286.0" />
+      <TextField fx:id="mid7" alignment="CENTER" layoutX="415.0" layoutY="391.0" prefHeight="25.0" prefWidth="40.0" />
+      <Label layoutX="39.0" layoutY="387.0" text="Physical training" textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+        <Label layoutY="53.0" prefHeight="57.0" prefWidth="800.0" style="-fx-background-color: #1a1345;" />
+        <ImageView fitHeight="112.0" fitWidth="123.0" layoutX="39.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@image/ala.png" />
+            </image>
+        </ImageView>
+        <Label layoutX="246.0" layoutY="61.0" prefHeight="43.0" prefWidth="383.0" text="Successful Student (Com19)" textFill="#c60b0b">
+            <font>
+                <Font size="29.0" />
+            </font>
+        </Label>
+        <Label layoutX="-6.0" layoutY="526.0" prefHeight="74.0" prefWidth="807.0" style="-fx-background-color: #1a1345;" />
+        <Label layoutX="39.0" layoutY="470.0" prefHeight="186.0" prefWidth="98.0" text="Ala-Too International University" textAlignment="CENTER" textFill="#fff8f8" wrapText="true">
+            <font>
+                <Font size="14.0" />
+            </font>
+        </Label>
+        <Label layoutX="199.0" layoutY="550.0" text="Gateway to the world!" textFill="#fff8f8">
+            <font>
+                <Font name="System Italic" size="17.0" />
+            </font>
+        </Label>
+        <Label layoutX="438.0" layoutY="550.0" text=" +996 (312) 63 14 25     info@iaau.edu.kg" textFill="WHITE">
+            <font>
+                <Font size="17.0" />
+            </font>
+        </Label>
+      <Label layoutX="39.0" layoutY="177.0" text="Object Oriented Programming (OOP)" textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="39.0" layoutY="352.0" text="Kyrgyz language and literature " textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="39.0" layoutY="317.0" text="Electrotechnics&amp;Electronics" textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="39.0" layoutY="284.0" text="Discrete Mathematics" textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="39.0" layoutY="247.0" text="Database Systems" textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="39.0" layoutY="212.0" prefHeight="30.0" prefWidth="218.0" text="Web Technologies" textFill="#1a1345">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <TextField fx:id="mid1" alignment="CENTER" layoutX="415.0" layoutY="181.0" prefHeight="25.0" prefWidth="40.0" />
+      <TextField fx:id="mid6" alignment="CENTER" layoutX="415.0" layoutY="356.0" prefWidth="40.0" AnchorPane.topAnchor="356.0" />
+      <TextField fx:id="mid5" alignment="CENTER" layoutX="415.0" layoutY="322.0" prefWidth="40.0" />
+      <TextField fx:id="mid4" alignment="CENTER" layoutX="415.0" layoutY="286.0" prefWidth="40.0" AnchorPane.topAnchor="286.0" />
+      <TextField fx:id="mid3" alignment="CENTER" layoutX="415.0" layoutY="251.0" prefWidth="40.0" AnchorPane.topAnchor="251.0" />
+      <TextField fx:id="mid2" alignment="CENTER" layoutX="415.0" layoutY="216.0" prefWidth="40.0" />
+      <Label layoutX="416.0" layoutY="139.0" text="MID" textFill="#1a1345" AnchorPane.leftAnchor="416.0">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="39.0" layoutY="137.0" text="Course name" textFill="#1a1345">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <TextField fx:id="wr3" alignment="CENTER" layoutX="494.0" layoutY="252.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="251.0" />
+      <TextField fx:id="wr2" alignment="CENTER" layoutX="496.0" layoutY="217.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.leftAnchor="494.0" AnchorPane.topAnchor="216.0" />
+      <TextField fx:id="wr1" alignment="CENTER" layoutX="494.0" layoutY="181.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="181.0" />
+      <Label layoutX="499.0" layoutY="139.0" text="WR" textFill="#1a1345" AnchorPane.leftAnchor="499.0">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="565.0" layoutY="139.0" prefHeight="30.0" prefWidth="56.0" text="FIN" textFill="#1a1345" AnchorPane.leftAnchor="565.0">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="fin1" layoutX="563.0" layoutY="181.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="181.0" />
+      <Label fx:id="fin2" layoutX="563.0" layoutY="217.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.topAnchor="216.0" />
+      <Label fx:id="fin3" layoutX="563.0" layoutY="255.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.leftAnchor="563.0" AnchorPane.topAnchor="251.0" />
+      <Label fx:id="fin4" layoutX="563.0" layoutY="292.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.leftAnchor="563.0" AnchorPane.topAnchor="286.0" />
+      <Label fx:id="fin5" layoutX="563.0" layoutY="325.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.leftAnchor="563.0" AnchorPane.topAnchor="322.0" />
+      <Label fx:id="fin6" layoutX="563.0" layoutY="355.0" prefHeight="25.0" prefWidth="40.0" AnchorPane.leftAnchor="563.0" AnchorPane.topAnchor="356.0" />
+      <Label fx:id="fin7" layoutX="563.0" layoutY="395.0" prefHeight="25.0" prefWidth="40.0" textOverrun="CENTER_WORD_ELLIPSIS" AnchorPane.leftAnchor="563.0" AnchorPane.topAnchor="392.0" />
+      <Button fx:id="button1" layoutX="617.0" layoutY="181.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Button fx:id="button2" layoutX="617.0" layoutY="217.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Button fx:id="button3" layoutX="617.0" layoutY="251.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Button fx:id="button4" layoutX="617.0" layoutY="288.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Button fx:id="button5" layoutX="617.0" layoutY="322.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Button fx:id="button6" layoutX="617.0" layoutY="356.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Button fx:id="button7" layoutX="617.0" layoutY="392.0" mnemonicParsing="false" text="Show" textFill="#1a1345" />
+      <Label layoutX="291.0" layoutY="444.0" text="MID-midterm exam score" textFill="#1a1345">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="316.0" layoutY="470.0" text="WR-wished result" textFill="#1a1345">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="304.0" layoutY="498.0" text="FIN-final exam score" textFill="#1a1345">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Label>
+      <Button fx:id="back_button" layoutX="652.0" layoutY="475.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="63.0" text="back" textFill="#1a1345">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>

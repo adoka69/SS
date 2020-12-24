@@ -7,3 +7,5 @@ This program will show you which lessons should be in priority
 
 
 https://www.youtube.com/watch?v=R_cji6le7vc - presentation
+https://drive.google.com/file/d/1PmtMI8QGvVIAHZsIkRwSIaJFkxG0lODw/view?usp=sharing - feedback
+
